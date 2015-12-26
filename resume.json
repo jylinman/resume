@@ -1,7 +1,7 @@
 {
   "basics": {
     "name": "Jonathan Reyes",
-    "label": "CTO & CoFounder of Step",
+    "label": "CoFounder & CTO of STEP",
     "picture": "https://pbs.twimg.com/profile_images/645917243788931072/2haD1ujA.jpg",
     "email": "contact@jonathanreyes.com",
     "phone": "+962 7 9870 9236",
@@ -37,61 +37,84 @@
   },
   "work": [
     {
-      "company": "Pied Piper",
-      "position": "CEO/President",
-      "website": "http://piedpiper.com",
-      "startDate": "2013-12-01",
-      "endDate": "2014-12-01",
-      "summary": "Pied Piper is a multi-platform technology based on a proprietary universal compression algorithm that has consistently fielded high Weisman Scores™ that are not merely competitive, but approach the theoretical limit of lossless compression.",
+      "company": "STEP",
+      "position": "CoFounder & CTO",
+      "website": "https://stepfeed.com",
+      "startDate": "2014-06-01",
+      "endDate": "Current",
+      "summary": "Responsible for design and implementation of artificial intelligence, machine learning, big data processing, scalability, frontend development, and backend API using NodeJS, Rails, PHP, MySQL, Cassandra, Spark, and Amazon AWS.",
+      "highlights": []
+    },
+    {
+      "company": "Freelancer",
+      "position": "Independent",
+      "website": "https://jonathanreyes.com",
+      "startDate": "2003-07-01",
+      // "endDate": "Current",
+      "summary": "Responsible for the design and implementation of scalable infrastructures including both backend and frontend development for companies including: Capital Bank, Carnegie Mellon Qatar, Hashdoc, and Spiderfrogs. These systems were built to support large amounts of concurrent users while still providing instant statistics to the client and end-user.",
       "highlights": [
-        "Build an algorithm for artist to detect if their music was violating copy right infringement laws",
-        "Successfully won Techcrunch Disrupt",
-        "Optimized an algorithm that holds the current world record for Weisman Scores"
+        "Worked with a variety of clients ranging from Boeing to Banks to International Universities",
+        "Experienced many different aspects of technology fields",
+        "Contributed to many open source projects"
+      ]
+    },
+    {
+      "company": "2Advanced Studios",
+      "position": "Senior Developer",
+      "website": "https://jonathanreyes.com",
+      "startDate": "2008-05-01",
+      "endDate": "2012-05-01",
+      "summary": "Responsible for the development of backend object-oriented, high-volume, database-driven applications, front-end flash development, and various other applications for the iPhone and desktop.  Clients: Activision, NAMCO Bandai Games, and Adobe.",
+      "highlights": [
+        "Created and managed high-volume web applications for Call of Duty, Treyarch, DJ Hero, and Transformers",
+        "Created and managed the Namco Bandai Games application website and sub-sites",
+        "Explored and contributed to many bleeding-edge technologies"
+      ]
+    },
+    {
+      "company": "EON Reality",
+      "position": "3D Programmer & Designer",
+      "website": "https://eonreality.com",
+      "startDate": "2008-05-01",
+      "endDate": "2007-01-01",
+      "summary": "Primary responsibilities include the creation of real-time 3D simulations and Vray renderings of walk-throughs and interactive applications. Clients: Boeing, Raytheon.",
+      "highlights": [
+        "Created and managed interactive 3D immersive environments for Boeing and Raytheon"
       ]
     }
   ],
   "volunteer": [
     {
       "organization": "Founder Institute",
-      "position": "Teacher",
-      "website": "http://coderdojo.com/",
-      "startDate": "2012-01-01",
-      "endDate": "2013-01-01",
-      "summary": "Global movement of free coding clubs for young people.",
-      "highlights": [
-        "Awarded 'Teacher of the Month'"
-      ]
+      "position": "Advisor",
+      "website": "https://fi.co/",
+      "startDate": "2015-11-01",
+      // "endDate": "2013-01-01",
+      "summary": "Helping with the ideation and creation of businesses",
+      "highlights": []
     }
   ],
   "education": [
     {
-      "institution": "University of Oklahoma",
-      "area": "Information Technology",
+      "institution": "Bellevue University",
+      "area": "Business",
       "studyType": "Bachelor",
-      "startDate": "2011-06-01",
-      "endDate": "2014-01-01",
-      "gpa": "4.0",
-      "courses": [
-        "DB1101 - Basic SQL",
-        "CS2011 - Java Introduction"
-      ]
-    }
-  ],
-  "awards": [
+      "startDate": "2014-08-01"
+      // "endDate": "2014-01-01"
+    },
     {
-      "title": "Digital Compression Pioneer Award",
-      "date": "2014-11-01",
-      "awarder": "Techcrunch",
-      "summary": "There is no spoon."
-    }
-  ],
-  "publications": [
+      "institution": "University of Phoenix",
+      "area": "Business",
+      "studyType": "Bachelor",
+      "startDate": "2008-01-01"
+      // "endDate": "2014-01-01"
+    },
     {
-      "name": "Video compression for 3d media",
-      "publisher": "Hooli",
-      "releaseDate": "2014-10-01",
-      "website": "http://en.wikipedia.org/wiki/Silicon_Valley_(TV_series)",
-      "summary": "Innovative middle-out compression algorithm that changes the way we store data."
+      "institution": "The Art Institute of Orange County",
+      "area": "Media Arts & Animation",
+      "studyType": "Bachelor",
+      "startDate": "2007-06-01",
+      "endDate": "2008-09-01"
     }
   ],
   "skills": [
@@ -101,7 +124,17 @@
       "keywords": [
         "HTML",
         "CSS",
-        "Javascript"
+        "Javascript",
+        "NodeJS",
+        "PHP",
+        "jQuery",
+        "Angular",
+        "MySQL",
+        "Amazon AWS",
+        "Ruby on Rails",
+        "Nginx",
+        "Ubuntu",
+        "Linux"
       ]
     },
     {
