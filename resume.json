@@ -38,10 +38,9 @@
   "work": [
     {
       "company": "STEP",
-      "position": "CoFounder & CTO",
+      "position": "CoFounder / CTO",
       "website": "https://stepfeed.com",
       "startDate": "2014-06-01",
-      "endDate": "Current",
       "summary": "Responsible for design and implementation of artificial intelligence, machine learning, big data processing, scalability, frontend development, and backend API using NodeJS, Rails, PHP, MySQL, Cassandra, Spark, and Amazon AWS.",
       "highlights": []
     },
@@ -50,7 +49,6 @@
       "position": "Independent",
       "website": "https://jonathanreyes.com",
       "startDate": "2003-07-01",
-      // "endDate": "Current",
       "summary": "Responsible for the design and implementation of scalable infrastructures including both backend and frontend development for companies including: Capital Bank, Carnegie Mellon Qatar, Hashdoc, and Spiderfrogs. These systems were built to support large amounts of concurrent users while still providing instant statistics to the client and end-user.",
       "highlights": [
         "Worked with a variety of clients ranging from Boeing to Banks to International Universities",
@@ -73,7 +71,7 @@
     },
     {
       "company": "EON Reality",
-      "position": "3D Programmer & Designer",
+      "position": "3D Programmer / Designer",
       "website": "https://eonreality.com",
       "startDate": "2008-05-01",
       "endDate": "2007-01-01",
@@ -89,7 +87,6 @@
       "position": "Advisor",
       "website": "https://fi.co/",
       "startDate": "2015-11-01",
-      // "endDate": "2013-01-01",
       "summary": "Helping with the ideation and creation of businesses",
       "highlights": []
     }
@@ -100,14 +97,12 @@
       "area": "Business",
       "studyType": "Bachelor",
       "startDate": "2014-08-01"
-      // "endDate": "2014-01-01"
     },
     {
       "institution": "University of Phoenix",
       "area": "Business",
       "studyType": "Bachelor",
       "startDate": "2008-01-01"
-      // "endDate": "2014-01-01"
     },
     {
       "institution": "The Art Institute of Orange County",
@@ -159,17 +154,71 @@
   ],
   "interests": [
     {
-      "name": "Wildlife",
+      "name": "Nature",
       "keywords": [
-        "Ferrets",
-        "Unicorns"
+        "Hiking", "BBQ"
       ]
+    },
+    {
+      "name": "Art",
+      "keywords": [
+        "Poetry", "Painting", "Calligraphy"
+      ]
+    },
+    {
+      "name": "Chess",
+      "keywords": []
     }
   ],
-  "references": [
+  "samples": [
     {
-      "name": "Erlich Bachman",
-      "reference": "It is my pleasure to recommend Richard, his performance working as a consultant for Main St. Company proved that he will be a valuable addition to any company."
+      "title": "Capital Bank - Mobile Application",
+      "summary": "Redesigned the UI and UX for the Capital Bank mobile application",
+      "url": "https://capitalbank.jo",
+      "date": "2015-06"
+    },
+    {
+      "title": "Capital Bank - Customer Portal",
+      "summary": "Redesigned the UI and UX for Capital Bank",
+      "url": "https://capitalbank.jo",
+      "date": "2014-11"
+    },
+    {
+      "title": "StepFeed",
+      "summary": "Full implementation of machine learning, backend infrastructures, and design.",
+      "url": "https://stepfeed.com",
+      "date": "2014-10"
+    },
+    {
+      "title": "YallaFeed",
+      "summary": "Full implementation of machine learning, backend infrastructures, and design.",
+      "url": "https://yallafeed.com",
+      "date": "2014-10"
+    },
+    {
+      "title": "Step Conference",
+      "summary": "Backend and Frontend",
+      "url": "https://stepconference.com",
+      "date": "2015-03"
+    },
+    {
+      "title": "Qatar Air Quality Monitor",
+      "summary": "Integrated with weather monitoring systems for Carnegie Mellon University in Qatar.",
+      "url": "http://qatar.cmu.edu",
+      "date": "2015-06"
+    },
+    {
+      "title": "Hashdoc",
+      "summary": "Redesigned the UI and UX for a file-sharing website called Hashdoc.",
+      "url": "http://hashdoc.com",
+      "date": "2013-06"
+    },
+    {
+      "title": "Blur",
+      "summary": "Frontend and Backend",
+      "url": "http://blurgame.com",
+      "date": "2011-06"
     }
   ]
 }
+
