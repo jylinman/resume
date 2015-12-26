@@ -14,7 +14,7 @@ Jonathan loves engaging in the depths of culture and finding new experiences. He
 
 ## EMPLOYMENT
 
-### CoFounder / CTO, STEP (2014-06 -- 2015-12)
+### CoFounder / CTO, STEP (2015-06 -- 2015-12)
 Responsible for design and implementation of artificial intelligence, machine learning, big data processing, scalability, frontend development, and backend API using NodeJS, Rails, PHP, MySQL, Cassandra, Spark, and Amazon AWS.
 
 ### Senior Developer, 2Advanced Studios (2008-05 -- 2012-05)
