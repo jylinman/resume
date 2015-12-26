@@ -160,6 +160,10 @@
       ]
     },
     {
+      "name": "Intercultural Studies",
+      "keywords": []
+    },
+    {
       "name": "Art",
       "keywords": [
         "Poetry", "Painting", "Calligraphy"
@@ -167,6 +171,14 @@
     },
     {
       "name": "Chess",
+      "keywords": []
+    },
+    {
+      "name": "World History",
+      "keywords": []
+    },
+    {
+      "name": "Home Automation",
       "keywords": []
     }
   ],
