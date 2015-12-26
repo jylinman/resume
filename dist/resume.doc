@@ -612,7 +612,7 @@
                     <w:caps/>
                     <w:color w:val="989898"/>
                   </w:rPr>
-                  <w:t>Web Development</w:t>
+                  <w:t>Web Development: Frontend</w:t>
                 </w:r> -->
                 <w:r>
                   <w:rPr>
@@ -647,7 +647,7 @@
                     <w:b/>
                     <w:caps/>
                   </w:rPr>
-                  <w:t>Web Development</w:t>
+                  <w:t>Web Development: Frontend</w:t>
                 </w:r>
               </w:p>
               <w:p wsp:rsidR="00427ECC" wsp:rsidRDefault="00427ECC" wsp:rsidP="00427ECC">
@@ -656,7 +656,7 @@
                     <w:caps/>
                     <w:spacing w:val="22"/>
                   </w:rPr>
-                  <w:t>HTML  CSS  Javascript  NodeJS  PHP  jQuery  Angular  MySQL  Amazon AWS  Ruby on Rails  Nginx  Ubuntu  Linux</w:t>
+                  <w:t>HTML5  CSS3  Javascript  ES6  CoffeeScript  Angular  jQuery  Sass  Less  Bootstrap  D3</w:t>
                 </w:r>
               </w:p>
             </w:tc>
@@ -681,7 +681,7 @@
                     <w:caps/>
                     <w:color w:val="989898"/>
                   </w:rPr>
-                  <w:t>Compression</w:t>
+                  <w:t>Web Development: Backend</w:t>
                 </w:r> -->
                 <w:r>
                   <w:rPr>
@@ -716,7 +716,7 @@
                     <w:b/>
                     <w:caps/>
                   </w:rPr>
-                  <w:t>Compression</w:t>
+                  <w:t>Web Development: Backend</w:t>
                 </w:r>
               </w:p>
               <w:p wsp:rsidR="00427ECC" wsp:rsidRDefault="00427ECC" wsp:rsidP="00427ECC">
@@ -725,7 +725,76 @@
                     <w:caps/>
                     <w:spacing w:val="22"/>
                   </w:rPr>
-                  <w:t>Mpeg  MP4  GIF</w:t>
+                  <w:t>Node  Express  Restify  Ruby  Firebase  PHP  Kohana  Ruby on Rails  Amazon AWS  Docker  Ubuntu  Linux</w:t>
+                </w:r>
+              </w:p>
+            </w:tc>
+          </w:tr>
+      
+      
+          <w:tr wsp:rsidR="00427ECC" wsp:rsidTr="00FD3B33">
+            <w:trPr>
+              <w:trHeight w:val="882"/>
+            </w:trPr>
+            <w:tc>
+              <w:tcPr>
+                <w:tcW w:w="828" w:type="dxa"/>
+                <w:shd w:val="clear" w:color="auto" w:fill="auto"/>
+              </w:tcPr>
+              <w:p wsp:rsidR="00427ECC" wsp:rsidRDefault="00427ECC" wsp:rsidP="00427ECC">
+                <!-- <w:pPr>
+                  <w:jc w:val="right"/>
+                </w:pPr>
+                <w:r>
+                  <w:rPr>
+                    <w:caps/>
+                    <w:color w:val="989898"/>
+                  </w:rPr>
+                  <w:t>Web Development: Architecture</w:t>
+                </w:r> -->
+                <w:r>
+                  <w:rPr>
+                    <w:noProof/>
+                  </w:rPr>
+                  <w:pict>
+                    <v:rect id="_x0000_s1028" style="position:absolute;left:0;text-align:left;margin-left:20.6pt;margin-top:1.4pt;width:7.15pt;height:38.25pt;z-index:1" fillcolor="#C00000"  strokeweight="0"/>
+                  </w:pict>
+                </w:r>
+                <w:r>
+                  <w:rPr>
+                    <w:noProof/>
+                  </w:rPr>
+                  <w:pict>
+                    <v:rect id="_x0000_s1026" style="position:absolute;left:0;text-align:left;margin-left:20.6pt;margin-top:1.4pt;width:7.15pt;height:0pt;z-index:2" fillcolor="#FFFFFF" strokeweight="0"/>
+                  </w:pict>
+                </w:r>
+              </w:p>
+            </w:tc>
+            <w:tc>
+              <w:tcPr>
+                <w:tcW w:w="8748" w:type="dxa"/>
+                <w:shd w:val="clear" w:color="auto" w:fill="auto"/>
+              </w:tcPr>
+              <w:p>
+                <w:pPr>
+                  <w:spacing w:before="120"/>
+                </w:pPr>
+                <w:r>
+                  <w:rPr>
+                    <w:sz w:val="24"/>
+                    <w:b/>
+                    <w:caps/>
+                  </w:rPr>
+                  <w:t>Web Development: Architecture</w:t>
+                </w:r>
+              </w:p>
+              <w:p wsp:rsidR="00427ECC" wsp:rsidRDefault="00427ECC" wsp:rsidP="00427ECC">
+                <w:r>
+                  <w:rPr>
+                    <w:caps/>
+                    <w:spacing w:val="22"/>
+                  </w:rPr>
+                  <w:t>MVC  Rest  CRUD  SPA  Ajax  WebSockets</w:t>
                 </w:r>
               </w:p>
             </w:tc>

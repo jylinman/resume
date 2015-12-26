@@ -8,8 +8,9 @@ Jonathan loves engaging in the depths of culture and finding new experiences. He
 
 ## SKILLS
 
-  - Web Development: HTML CSS Javascript NodeJS PHP jQuery Angular MySQL Amazon AWS Ruby on Rails Nginx Ubuntu Linux 
-  - Compression: Mpeg MP4 GIF 
+  - Web Development: Frontend: HTML5 CSS3 Javascript ES6 CoffeeScript Angular jQuery Sass Less Bootstrap D3 
+  - Web Development: Backend: Node Express Restify Ruby Firebase PHP Kohana Ruby on Rails Amazon AWS Docker Ubuntu Linux 
+  - Web Development: Architecture: MVC Rest CRUD SPA Ajax WebSockets 
 
 ## EMPLOYMENT
 

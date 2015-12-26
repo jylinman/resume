@@ -114,31 +114,50 @@
   ],
   "skills": [
     {
-      "name": "Web Development",
+      "name": "Web Development: Frontend",
       "level": "Master",
       "keywords": [
-        "HTML",
-        "CSS",
+        "HTML5",
+        "CSS3",
         "Javascript",
-        "NodeJS",
-        "PHP",
-        "jQuery",
+        "ES6",
+        "CoffeeScript",
         "Angular",
-        "MySQL",
-        "Amazon AWS",
+        "jQuery",
+        "Sass",
+        "Less",
+        "Bootstrap",
+        "D3"
+      ]
+    },
+    {
+      "name": "Web Development: Backend",
+      "level": "Master",
+      "keywords": [
+        "Node",
+        "Express",
+        "Restify",
+        "Ruby",
+        "Firebase",
+        "PHP",
+        "Kohana",
         "Ruby on Rails",
-        "Nginx",
+        "Amazon AWS",
+        "Docker",
         "Ubuntu",
         "Linux"
       ]
     },
     {
-      "name": "Compression",
+      "name": "Web Development: Architecture",
       "level": "Master",
       "keywords": [
-        "Mpeg",
-        "MP4",
-        "GIF"
+        "MVC",
+        "Rest",
+        "CRUD",
+        "SPA",
+        "Ajax",
+        "WebSockets"
       ]
     }
   ],
