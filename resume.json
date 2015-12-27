@@ -9,8 +9,7 @@
     "summary": "Jonathan loves engaging in the depths of culture and finding new experiences. He has spent way too much time diving into the complexity of technology. He is a guy who thrives off of creative solutions and innovation.",
     "location": {
       "city": "Amman",
-      "countryCode": "JO",
-      "region": "Middle East"
+      "countryCode": "JO"
     },
     "profiles": [
       {
@@ -180,7 +179,9 @@
     },
     {
       "name": "Intercultural Studies",
-      "keywords": []
+      "keywords": [
+        "Intercultural Development Inventory", "Enneagram", "Myers Briggs"
+      ]
     },
     {
       "name": "Art",
@@ -199,56 +200,6 @@
     {
       "name": "Home Automation",
       "keywords": []
-    }
-  ],
-  "samples": [
-    {
-      "title": "Capital Bank - Mobile Application",
-      "summary": "Redesigned the UI and UX for the Capital Bank mobile application",
-      "url": "https://capitalbank.jo",
-      "date": "2015-06"
-    },
-    {
-      "title": "Capital Bank - Customer Portal",
-      "summary": "Redesigned the UI and UX for Capital Bank",
-      "url": "https://capitalbank.jo",
-      "date": "2014-11"
-    },
-    {
-      "title": "StepFeed",
-      "summary": "Full implementation of machine learning, backend infrastructures, and design.",
-      "url": "https://stepfeed.com",
-      "date": "2014-10"
-    },
-    {
-      "title": "YallaFeed",
-      "summary": "Full implementation of machine learning, backend infrastructures, and design.",
-      "url": "https://yallafeed.com",
-      "date": "2014-10"
-    },
-    {
-      "title": "Step Conference",
-      "summary": "Backend and Frontend",
-      "url": "https://stepconference.com",
-      "date": "2015-03"
-    },
-    {
-      "title": "Qatar Air Quality Monitor",
-      "summary": "Integrated with weather monitoring systems for Carnegie Mellon University in Qatar.",
-      "url": "http://qatar.cmu.edu",
-      "date": "2015-06"
-    },
-    {
-      "title": "Hashdoc",
-      "summary": "Redesigned the UI and UX for a file-sharing website called Hashdoc.",
-      "url": "http://hashdoc.com",
-      "date": "2013-06"
-    },
-    {
-      "title": "Blur",
-      "summary": "Frontend and Backend",
-      "url": "http://blurgame.com",
-      "date": "2011-06"
     }
   ]
 }

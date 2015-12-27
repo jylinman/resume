@@ -5,9 +5,11 @@
   "main": "index.js",
   "private": true,
   "scripts": {
-    "compile": "./node_modules/.bin/hackmyresume build resume.json TO dist/resume.md dist/resume.html dist/resume.doc",
+    "compile": "mkdir -p dist && ./node_modules/.bin/resume export dist/index.html --theme elegant",
     "watch": "./node_modules/.bin/fsmonitor -p '+resume.json' npm run compile",
-    "publish": "./node_modules/.bin/resume publish --theme elegant"
+    "test": "./node_modules/.bin/resume test",
+    "publish": "./node_modules/.bin/resume publish --theme elegant",
+    "sync": "rsync dist/* root@personal:/var/www/resume.jonathanreyes.com/html"
   },
   "repository": {
     "type": "git",
@@ -26,7 +28,6 @@
   "homepage": "https://jonathanreyes.com",
   "dependencies": {
     "fsmonitor": "^0.2.4",
-    "hackmyresume": "^1.2.2",
     "resume-cli": "^0.4.8"
   }
 }
