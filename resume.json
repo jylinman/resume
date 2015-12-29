@@ -77,11 +77,21 @@
       "company": "EON Reality",
       "position": "3D Programmer / Designer",
       "website": "https://eonreality.com",
-      "startDate": "2008-05-01",
-      "endDate": "2007-01-01",
+      "startDate": "2007-05-01",
+      "endDate": "2008-01-01",
       "summary": "Primary responsibilities include the creation of real-time 3D simulations and Vray renderings of walk-throughs and interactive applications. Clients: Boeing, Raytheon.",
       "highlights": [
         "Created and managed interactive 3D immersive environments for Boeing and Raytheon"
+      ]
+    },
+    {
+      "company": "Sierra Nevada TV",
+      "position": "Videographer / Motion Graphics Artist",
+      "startDate": "2005-05-01",
+      "endDate": "2007-06-01",
+      "summary": "Responsibilites include filming and creating TV spot commercials, show introductions, and live broadcast directing.",
+      "highlights": [
+        "Broad range of projects ranging from regional companies to government clients."
       ]
     }
   ],
