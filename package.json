@@ -12,7 +12,7 @@
     "test": "./node_modules/.bin/resume test",
     "publish": "npm run publish:website && npm run publish:registry",
     "publish:registry": "./node_modules/.bin/resume publish --theme elegant",
-    "publish:website": "scp dist/* root@personal:/var/www/resume.jonathanreyes.com/html/"
+    "publish:website": "scp dist/resume.html root@personal:/var/www/resume.jonathanreyes.com/html/index.html"
   },
   "repository": {
     "type": "git",
