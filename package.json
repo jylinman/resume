@@ -5,13 +5,13 @@
   "main": "index.js",
   "private": true,
   "scripts": {
-    "compile": "mkdir -p dist && npm run compile:markdown && npm run compile:html",
+    "clean": "rm -rf dist/",
+    "compile": "npm run clean && mkdir -p dist && npm run compile:markdown && npm run compile:html",
     "compile:markdown": "./node_modules/.bin/hackmyresume BUILD resume.json TO dist/resume.md",
     "compile:html": "./node_modules/.bin/resume export dist/resume.html --theme elegant",
-    "watch": "./node_modules/.bin/fsmonitor -p '+resume.json' npm run compile",
+    "watch": "./node_modules/.bin/fsmonitor '+*.json' '!dist/' npm run compile",
     "test": "./node_modules/.bin/resume test",
-    "publish": "npm run publish:website && npm run publish:registry",
-    "publish:registry": "./node_modules/.bin/resume publish --theme elegant",
+    "publish": "npm run publish:website",
     "publish:website": "scp dist/resume.html root@personal:/var/www/resume.jonathanreyes.com/html/index.html"
   },
   "repository": {
