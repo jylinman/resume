@@ -4,13 +4,14 @@ Email: contact@jonathanreyes.com
 Tel: +962 7 9870 9236
 Web: https://jonathanreyes.com
 
-Jonathan loves engaging in the depths of culture and finding new experiences. He has spent way too much time diving into the complexity of technology. He is a guy who thrives off of creative solutions and innovation.
+I have been working in the industry from a young age, and have loved every minute of it. Spent much of my career in Los Angeles doing 3D animation, graphic design, and large-scale application development. No matter how much coding I did, there was always room for art. There is something special about being able to create your artwork to be communicative of your message– and then coding it into life.  I have been developing applications for a wide variety of industries such as Gaming, Aerospace, Foreign, Commercial, and User Content Driven. The application mediums have ranged from iPhone development to web development to multitouch tables.  I thrive off finding creative solutions to difficult problems.
 
 ## SKILLS
 
   - Web Development: Frontend: HTML5 CSS3 Javascript ES6 CoffeeScript Angular jQuery Sass Less Bootstrap D3 
   - Web Development: Backend: Node Express Restify Ruby Firebase PHP Kohana Ruby on Rails Amazon AWS Docker Ubuntu Linux 
   - Web Development: Architecture: MVC Rest CRUD SPA Ajax WebSockets 
+  - Graphic / Motion Design: Photoshop Premeire Combusion Sketch Illustrator Photography UI UX 
 
 ## EMPLOYMENT
 
@@ -38,7 +39,7 @@ Responsible for the design and implementation of scalable infrastructures includ
 
 ### Bellevue University (2014-08 — 2015-12)
 
-### University of Phoenix (2008-01 — 2015-12)
+### University of Phoenix (2008-01 — 2009-01)
 
 ### The Art Institute of Orange County (2007-06 — 2008-09)
 

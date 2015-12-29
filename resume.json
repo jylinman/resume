@@ -6,10 +6,10 @@
     "email": "contact@jonathanreyes.com",
     "phone": "+962 7 9870 9236",
     "website": "https://jonathanreyes.com",
-    "summary": "Jonathan loves engaging in the depths of culture and finding new experiences. He has spent way too much time diving into the complexity of technology. He is a guy who thrives off of creative solutions and innovation.",
+    "summary": "I have been working in the industry from a young age, and have loved every minute of it. Spent much of my career in Los Angeles doing 3D animation, graphic design, and large-scale application development. No matter how much coding I did, there was always room for art. There is something special about being able to create your artwork to be communicative of your message– and then coding it into life.  I have been developing applications for a wide variety of industries such as Gaming, Aerospace, Foreign, Commercial, and User Content Driven. The application mediums have ranged from iPhone development to web development to multitouch tables.  I thrive off finding creative solutions to difficult problems.",
     "location": {
-      "city": "Amman",
-      "countryCode": "JO"
+      "city": "Amman | Dubai | Beirut",
+      "region": "Middle East"
     },
     "profiles": [
       {
@@ -31,6 +31,11 @@
         "network": "Keybase",
         "username": "albanda",
         "url": "https://keybase.io/albanda"
+      },
+      {
+        "network": "Medium",
+        "username": "albanda",
+        "url": "https://medium.com/@albanda"
       }
     ]
   },
@@ -101,7 +106,8 @@
       "institution": "University of Phoenix",
       "area": "Business",
       "studyType": "Bachelor",
-      "startDate": "2008-01-01"
+      "startDate": "2008-01-01",
+      "endDate": "2009-01-01"
     },
     {
       "institution": "The Art Institute of Orange County",
@@ -157,6 +163,20 @@
         "SPA",
         "Ajax",
         "WebSockets"
+      ]
+    },
+    {
+      "name": "Graphic / Motion Design",
+      "level": "Ninja",
+      "keywords": [
+        "Photoshop",
+        "Premeire",
+        "Combusion",
+        "Sketch",
+        "Illustrator",
+        "Photography",
+        "UI",
+        "UX"
       ]
     }
   ],

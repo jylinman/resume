@@ -1,6 +1,18 @@
 {
   "samples": [
     {
+      "title": "Call of Duty: Black Ops",
+      "summary": "HTML, CSS, Javascript, PHP, Kohana, Apache, Load Balancing",
+      "url": "http://callofduty.com",
+      "date": "2009-06"
+    },
+    {
+      "title": "Call of Duty: World at War",
+      "summary": "HTML, CSS, Javascript, PHP, Kohana, Apache, Load Balancing",
+      "url": "http://callofduty.com",
+      "date": "2008-06"
+    },
+    {
       "title": "Capital Bank - Mobile Application",
       "summary": "Redesigned the UI and UX for the Capital Bank mobile application",
       "url": "https://capitalbank.jo",
@@ -37,6 +49,16 @@
       "date": "2015-06"
     },
     {
+      "title": "PearsonTQ College",
+      "summary": "Redesign / UI + UX",
+      "date": "2015-10"
+    },
+    {
+      "title": "Ar Rass German College",
+      "summary": "Redesign / UI + UX",
+      "date": "2015-10"
+    },
+    {
       "title": "Hashdoc",
       "summary": "Redesigned the UI and UX for a file-sharing website called Hashdoc.",
       "url": "http://hashdoc.com",
@@ -44,9 +66,93 @@
     },
     {
       "title": "Blur",
-      "summary": "Frontend and Backend",
+      "summary": "HTML, CSS, Javascript, PHP, Kohana, Apache",
       "url": "http://blurgame.com",
       "date": "2011-06"
+    },
+    {
+      "title": "BadJuju Games",
+      "summary": "HTML5, CSS3, Javascript, PHP",
+      "url": "http://www.badjuju.com/",
+      "date": "2011-12"
+    },
+    {
+      "title": "Go Vacation",
+      "summary": "HTML, CSS, Javascript, PHP, Kohana, Apache, Flash",
+      "url": "http://govacationgame.com",
+      "date": "2011-12"
+    },
+    {
+      "title": "Treyarch",
+      "summary": "HTML, CSS, Javascript, PHP, Kohana, Apache, Flash",
+      "url": "http://www.treyarch.com/",
+      "date": "2011-12"
+    },
+    {
+      "title": "Namco Bandai Games",
+      "summary": "HTML, CSS, Javascript, PHP, Kohana, Apache",
+      "url": "http://namcobandaigames.com/",
+      "date": "2010-12"
+    },
+    {
+      "title": "Extreme Music",
+      "summary": "HTML, CSS, Javascript, PHP, Kohana, Apache, 3Ds Max",
+      "url": "http://extrememusic.com",
+      "date": "2010-12"
+    },
+    {
+      "title": "DJ Hero 2",
+      "summary": "HTML, CSS, Javascript, PHP, Kohana, Apache, Flash",
+      "url": "http://djhero.com",
+      "date": "2010-12"
+    },
+    {
+      "title": "AIYA America",
+      "summary": "HTML, CSS, Javascript, PHP, Kohana, Apache, E-commerce",
+      "url": "http://aiya-america.com",
+      "date": "2010-12"
+    },
+    {
+      "title": "Inversion",
+      "summary": "HTML, CSS, Javascript, PHP, Kohana, Apache, Flash",
+      "url": "http://inversion.com",
+      "date": "2009-12"
+    },
+    {
+      "title": "God of War",
+      "summary": "HTML, CSS, Javascript, PHP, Kohana, Apache",
+      "url": "http://godofwar.com",
+      "date": "2009-12"
+    },
+    {
+      "title": "Wolfenstein",
+      "summary": "HTML, CSS, Javascript, PHP, Kohana, Apache",
+      "url": "http://wolfenstein.com",
+      "date": "2009-06"
+    },
+    {
+      "title": "Sledgehammer Games",
+      "summary": "HTML, CSS, Javascript, PHP, Kohana, Apache, Flash",
+      "url": "http://sledgehammergames.com",
+      "date": "2009-06"
+    },
+    {
+      "title": "Ace Combat",
+      "summary": "HTML, CSS, Javascript, PHP, Kohana, Apache",
+      "url": "http://acecombat.com",
+      "date": "2009-06"
+    },
+    {
+      "title": "Singularity",
+      "summary": "HTML, CSS, Javascript, PHP, Kohana, Apache",
+      "url": "http://singularity-game.com",
+      "date": "2008-06"
+    },
+    {
+      "title": "Dakine",
+      "summary": "HTML, CSS, Javascript, PHP, Kohana, Apache, Flash",
+      "url": "http://dakine.com",
+      "date": "2007-06"
     }
   ]
 }
