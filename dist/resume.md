@@ -28,13 +28,15 @@ Responsible for the development of backend object-oriented, high-volume, databas
 Primary responsibilities include the creation of real-time 3D simulations and Vray renderings of walk-throughs and interactive applications. Clients: Boeing, Raytheon.
   - Created and managed interactive 3D immersive environments for Boeing and Raytheon
 
-### Videographer / Motion Graphics Artist, Sierra Nevada TV (2005-05 -- 2007-06)
-Responsibilites include filming and creating TV spot commercials, show introductions, and live broadcast directing.
-  - Broad range of projects ranging from regional companies to government clients.
+### Independent, Freelancer (2003-07 -- 2015-12)
+Responsible for the design and implementation of scalable infrastructures including both backend and frontend development for companies including: Capital Bank, Carnegie Mellon Qatar, Hashdoc, and Spiderfrogs. These systems were built to support large amounts of concurrent users while still providing instant statistics to the client and end-user.
+  - Worked with a variety of clients ranging from Boeing to Banks to International Universities
+  - Experienced many different aspects of technology fields
+  - Contributed to many open source projects
 
 ### Previously...
-Prior to Freelancer, I worked on a range of projects for companies large and small.
-  - Independent, Freelancer
+Prior to Sierra Nevada TV, I worked on a range of projects for companies large and small.
+  - Videographer / Motion Graphics Artist, Sierra Nevada TV
 
 ## EDUCATION
 
