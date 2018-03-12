@@ -13,6 +13,18 @@
       "date": "2008-06"
     },
     {
+      "title": "Qatar CMU",
+      "summary": "The marketing site for the Carnegie Mellon University branch in Qatar.",
+      "url": "http://qatar.cmu.edu",
+      "date": "2017-02"
+    },
+    {
+      "title": "Qatar Air Quality Monitor",
+      "summary": "Integrated with weather monitoring systems for Carnegie Mellon University in Qatar.",
+      "url": "http://qatar.cmu.edu",
+      "date": "2015-06"
+    },
+    {
       "title": "Capital Bank - Mobile Application",
       "summary": "Redesigned the UI and UX for the Capital Bank mobile application",
       "url": "https://capitalbank.jo",
@@ -43,10 +55,16 @@
       "date": "2015-03"
     },
     {
-      "title": "Qatar Air Quality Monitor",
-      "summary": "Integrated with weather monitoring systems for Carnegie Mellon University in Qatar.",
+      "title": "Hamdan Innovation Incubator",
+      "summary": "Sysadmin work and updates for the Hamdan Innovation Incubator",
       "url": "http://qatar.cmu.edu",
-      "date": "2015-06"
+      "date": "2017-02"
+    },
+    {
+      "title": "STEP Group",
+      "summary": "Backend and Frontend",
+      "url": "https://stepgroup.co",
+      "date": "2015-03"
     },
     {
       "title": "PearsonTQ College",
