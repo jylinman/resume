@@ -1,14 +1,14 @@
 {
   "basics": {
     "name": "Jonathan Reyes",
-    "label": "CoFounder & CTO of STEP",
+    "label": "Creator",
     "picture": "https://pbs.twimg.com/profile_images/645917243788931072/2haD1ujA.jpg",
     "email": "contact@jonathanreyes.com",
     "phone": "+962 7 9870 9236",
     "website": "https://jonathanreyes.com",
     "summary": "I have been working in the industry from a young age, and have loved every minute of it. Spent much of my career in Los Angeles doing 3D animation, graphic design, and large-scale application development. No matter how much coding I did, there was always room for art. There is something special about being able to create your artwork to be communicative of your message– and then coding it into life.  I have been developing applications for a wide variety of industries such as Gaming, Aerospace, Foreign, Commercial, and User Content Driven. The application mediums have ranged from iPhone development to web development to multitouch tables.  I thrive off finding creative solutions to difficult problems.",
     "location": {
-      "city": "Amman | Dubai | Beirut",
+      "city": "Amman",
       "region": "Middle East"
     },
     "profiles": [
@@ -41,10 +41,11 @@
   },
   "work": [
     {
-      "company": "STEP",
+      "company": "StepGroup",
       "position": "CoFounder / CTO",
       "website": "https://stepfeed.com",
       "startDate": "2015-06-01",
+      "endDate": "2017-05-01",
       "summary": "Responsible for design and implementation of artificial intelligence, machine learning, big data processing, scalability, frontend development, and backend API using NodeJS, Rails, PHP, MySQL, Cassandra, Spark, and Amazon AWS.",
       "highlights": []
     },
