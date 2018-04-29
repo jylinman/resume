@@ -1,6 +1,24 @@
 {
   "samples": [
     {
+      "title": "du Emirati Startup Challenge",
+      "summary": "All backend and frontend related to startup challenge website.",
+      "url": "https://duemiratistartupchallenge.ae/",
+      "date": "2018-05"
+    },
+    {
+      "title": "3arab",
+      "summary": "All frontend and backend development focused on sharability and load speed.",
+      "url": "https://3arab.co/",
+      "date": "2018-02"
+    },
+    {
+      "title": "Hamdan Innovation Incubator",
+      "summary": "System administration and development.",
+      "url": "https://hi2.ae/",
+      "date": "2018-02"
+    },
+    {
       "title": "Call of Duty: Black Ops",
       "summary": "HTML, CSS, Javascript, PHP, Kohana, Apache, Load Balancing",
       "url": "http://callofduty.com",
