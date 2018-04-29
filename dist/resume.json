@@ -1,0 +1,237 @@
+{
+  "basics": {
+    "label": "Creator",
+    "email": "contact@jonathanreyes.com",
+    "phone": "+962 7 9870 9236",
+    "website": "https://jonathanreyes.com",
+    "name": "Jonathan Reyes",
+    "summary": "I have been working in the industry from a young age, and have loved every minute of it. Spent much of my career in Los Angeles doing 3D animation, graphic design, and large-scale application development. No matter how much coding I did, there was always room for art. There is something special about being able to create your artwork to be communicative of your message– and then coding it into life.  I have been developing applications for a wide variety of industries such as Gaming, Aerospace, Foreign, Commercial, and User Content Driven. The application mediums have ranged from iPhone development to web development to multitouch tables.  I thrive off finding creative solutions to difficult problems.",
+    "picture": "https://pbs.twimg.com/profile_images/645917243788931072/2haD1ujA.jpg",
+    "profiles": [
+      {
+        "network": "Twitter",
+        "username": "jylinman",
+        "url": "https://twitter.com/jylinman"
+      },
+      {
+        "network": "Facebook",
+        "username": "got.nomad",
+        "url": "https://www.facebook.com/got.nomad"
+      },
+      {
+        "network": "Github",
+        "username": "jylinman",
+        "url": "https://github.com/jylinman"
+      },
+      {
+        "network": "Keybase",
+        "username": "albanda",
+        "url": "https://keybase.io/albanda"
+      },
+      {
+        "network": "Medium",
+        "username": "albanda",
+        "url": "https://medium.com/@albanda"
+      }
+    ]
+  },
+  "work": [
+    {
+      "company": "StepGroup",
+      "website": "https://stepfeed.com",
+      "position": "CoFounder / CTO",
+      "startDate": "2015-06-01",
+      "endDate": "2017-05-01",
+      "summary": "Responsible for design and implementation of artificial intelligence, machine learning, big data processing, scalability, frontend development, and backend API using NodeJS, Rails, PHP, MySQL, Cassandra, Spark, and Amazon AWS.",
+      "highlights": []
+    },
+    {
+      "company": "Freelancer",
+      "website": "https://jonathanreyes.com",
+      "position": "Independent",
+      "startDate": "2003-07-01",
+      "summary": "Responsible for the design and implementation of scalable infrastructures including both backend and frontend development for companies including: Capital Bank, Carnegie Mellon Qatar, Hashdoc, and Spiderfrogs. These systems were built to support large amounts of concurrent users while still providing instant statistics to the client and end-user.",
+      "highlights": [
+        "Worked with a variety of clients ranging from Boeing to Banks to International Universities",
+        "Experienced many different aspects of technology fields",
+        "Contributed to many open source projects"
+      ]
+    },
+    {
+      "company": "2Advanced Studios",
+      "website": "https://jonathanreyes.com",
+      "position": "Senior Developer",
+      "startDate": "2008-05-01",
+      "endDate": "2012-05-01",
+      "summary": "Responsible for the development of backend object-oriented, high-volume, database-driven applications, front-end flash development, and various other applications for the iPhone and desktop.  Clients: Activision, NAMCO Bandai Games, and Adobe.",
+      "highlights": [
+        "Created and managed high-volume web applications for Call of Duty, Treyarch, DJ Hero, and Transformers",
+        "Created and managed the Namco Bandai Games application website and sub-sites",
+        "Explored and contributed to many bleeding-edge technologies"
+      ]
+    },
+    {
+      "company": "EON Reality",
+      "website": "https://eonreality.com",
+      "position": "3D Programmer / Designer",
+      "startDate": "2007-05-01",
+      "endDate": "2008-01-01",
+      "summary": "Primary responsibilities include the creation of real-time 3D simulations and Vray renderings of walk-throughs and interactive applications. Clients: Boeing, Raytheon.",
+      "highlights": [
+        "Created and managed interactive 3D immersive environments for Boeing and Raytheon"
+      ]
+    },
+    {
+      "company": "Sierra Nevada TV",
+      "position": "Videographer / Motion Graphics Artist",
+      "startDate": "2003-05-01",
+      "endDate": "2007-06-01",
+      "summary": "Responsibilites include filming and creating TV spot commercials, show introductions, and live broadcast directing.",
+      "highlights": [
+        "Broad range of projects ranging from regional companies to government clients."
+      ]
+    }
+  ],
+  "education": [
+    {
+      "institution": "Bellevue University",
+      "startDate": "2014-08-01",
+      "area": "Business",
+      "studyType": "Bachelor"
+    },
+    {
+      "institution": "University of Phoenix",
+      "startDate": "2008-01-01",
+      "endDate": "2009-01-01",
+      "area": "Business",
+      "studyType": "Bachelor"
+    },
+    {
+      "institution": "The Art Institute of Orange County",
+      "startDate": "2007-06-01",
+      "endDate": "2008-09-01",
+      "area": "Media Arts & Animation",
+      "studyType": "Bachelor"
+    }
+  ],
+  "skills": [
+    {
+      "name": "Web Development: Frontend",
+      "level": "Master",
+      "keywords": [
+        "HTML5",
+        "CSS3",
+        "Javascript",
+        "ES6",
+        "CoffeeScript",
+        "Angular",
+        "jQuery",
+        "Sass",
+        "Less",
+        "Bootstrap",
+        "D3"
+      ]
+    },
+    {
+      "name": "Web Development: Backend",
+      "level": "Master",
+      "keywords": [
+        "Node",
+        "Express",
+        "Restify",
+        "Ruby",
+        "Firebase",
+        "PHP",
+        "Kohana",
+        "Ruby on Rails",
+        "Amazon AWS",
+        "Docker",
+        "Ubuntu",
+        "Linux"
+      ]
+    },
+    {
+      "name": "Web Development: Architecture",
+      "level": "Master",
+      "keywords": [
+        "MVC",
+        "Rest",
+        "CRUD",
+        "SPA",
+        "Ajax",
+        "WebSockets"
+      ]
+    },
+    {
+      "name": "Graphic / Motion Design",
+      "level": "Ninja",
+      "keywords": [
+        "Photoshop",
+        "Premeire",
+        "Combusion",
+        "Sketch",
+        "Illustrator",
+        "Photography",
+        "UI",
+        "UX"
+      ]
+    }
+  ],
+  "volunteer": [
+    {
+      "organization": "Founder Institute",
+      "position": "Advisor",
+      "startDate": "2015-11-01",
+      "website": "https://fi.co/",
+      "summary": "Helping with the ideation and creation of businesses",
+      "highlights": []
+    }
+  ],
+  "interests": [
+    {
+      "name": "Nature",
+      "keywords": [
+        "Hiking",
+        "BBQ"
+      ]
+    },
+    {
+      "name": "Intercultural Studies",
+      "keywords": [
+        "Intercultural Development Inventory",
+        "Enneagram",
+        "Myers Briggs"
+      ]
+    },
+    {
+      "name": "Art",
+      "keywords": [
+        "Poetry",
+        "Painting",
+        "Calligraphy"
+      ]
+    },
+    {
+      "name": "Chess",
+      "keywords": []
+    },
+    {
+      "name": "World History",
+      "keywords": []
+    },
+    {
+      "name": "Home Automation",
+      "keywords": []
+    }
+  ],
+  "languages": [
+    {
+      "language": "English",
+      "fluency": "Native speaker"
+    },
+    {
+      "language": "Arabic",
+      "fluency": "Understands plenty, speaks less"
+    }
+  ]
+}

@@ -15,40 +15,79 @@ I have been working in the industry from a young age, and have loved every minut
 
 ## EMPLOYMENT
 
-### CoFounder / CTO, STEP (2015-06 -- 2015-12)
+### *CoFounder / CTO*, [StepGroup](https://stepfeed.com) (2015-06 — 2017-05)
+
 Responsible for design and implementation of artificial intelligence, machine learning, big data processing, scalability, frontend development, and backend API using NodeJS, Rails, PHP, MySQL, Cassandra, Spark, and Amazon AWS.
 
-### Senior Developer, 2Advanced Studios (2008-05 -- 2012-05)
-Responsible for the development of backend object-oriented, high-volume, database-driven applications, front-end flash development, and various other applications for the iPhone and desktop.  Clients: Activision, NAMCO Bandai Games, and Adobe.
-  - Created and managed high-volume web applications for Call of Duty, Treyarch, DJ Hero, and Transformers
-  - Created and managed the Namco Bandai Games application website and sub-sites
-  - Explored and contributed to many bleeding-edge technologies
+### *Independent*, [Freelancer](https://jonathanreyes.com) (2003-07 — Present)
 
-### 3D Programmer / Designer, EON Reality (2007-05 -- 2008-01)
-Primary responsibilities include the creation of real-time 3D simulations and Vray renderings of walk-throughs and interactive applications. Clients: Boeing, Raytheon.
-  - Created and managed interactive 3D immersive environments for Boeing and Raytheon
-
-### Independent, Freelancer (2003-07 -- 2015-12)
 Responsible for the design and implementation of scalable infrastructures including both backend and frontend development for companies including: Capital Bank, Carnegie Mellon Qatar, Hashdoc, and Spiderfrogs. These systems were built to support large amounts of concurrent users while still providing instant statistics to the client and end-user.
   - Worked with a variety of clients ranging from Boeing to Banks to International Universities
   - Experienced many different aspects of technology fields
   - Contributed to many open source projects
 
-### Previously...
-Prior to Sierra Nevada TV, I worked on a range of projects for companies large and small.
-  - Videographer / Motion Graphics Artist, Sierra Nevada TV
+### *Senior Developer*, [2Advanced Studios](https://jonathanreyes.com) (2008-05 — 2012-05)
+
+Responsible for the development of backend object-oriented, high-volume, database-driven applications, front-end flash development, and various other applications for the iPhone and desktop.  Clients: Activision, NAMCO Bandai Games, and Adobe.
+  - Created and managed high-volume web applications for Call of Duty, Treyarch, DJ Hero, and Transformers
+  - Created and managed the Namco Bandai Games application website and sub-sites
+  - Explored and contributed to many bleeding-edge technologies
+
+### *3D Programmer / Designer*, [EON Reality](https://eonreality.com) (2007-05 — 2008-01)
+
+Primary responsibilities include the creation of real-time 3D simulations and Vray renderings of walk-throughs and interactive applications. Clients: Boeing, Raytheon.
+  - Created and managed interactive 3D immersive environments for Boeing and Raytheon
+
+### *Videographer / Motion Graphics Artist*, Sierra Nevada TV (2003-05 — 2007-06)
+
+Responsibilites include filming and creating TV spot commercials, show introductions, and live broadcast directing.
+  - Broad range of projects ranging from regional companies to government clients.
+
+
+
 
 ## EDUCATION
 
-### Bellevue University (2014-08 — 2015-12)
+### Bellevue University (2014-08 — Present)
+
+
 
 ### University of Phoenix (2008-01 — 2009-01)
+
+
 
 ### The Art Institute of Orange County (2007-06 — 2008-09)
 
 
+
+
+
+
+
+
 ## SERVICE
 
-### Founder Institute (2015-11 — 2015-12)
+### *Advisor*, [Founder Institute](https://fi.co/) (2015-11 — Present)
+
 Helping with the ideation and creation of businesses
+
+
+
+
+
+
+## INTERESTS
+
+- NATURE: Hiking BBQ 
+
+- INTERCULTURAL STUDIES: Intercultural Development Inventory Enneagram Myers Briggs 
+
+- ART: Poetry Painting Calligraphy 
+
+- CHESS
+
+- WORLD HISTORY
+
+- HOME AUTOMATION
+
 

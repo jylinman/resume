@@ -1,0 +1,217 @@
+name: 'Jonathan Reyes'
+info:
+  label: Creator
+  image: 'https://pbs.twimg.com/profile_images/645917243788931072/2haD1ujA.jpg'
+  brief: 'I have been working in the industry from a young age, and have loved every minute of it. Spent much of my career in Los Angeles doing 3D animation, graphic design, and large-scale application development. No matter how much coding I did, there was always room for art. There is something special about being able to create your artwork to be communicative of your message– and then coding it into life.  I have been developing applications for a wide variety of industries such as Gaming, Aerospace, Foreign, Commercial, and User Content Driven. The application mediums have ranged from iPhone development to web development to multitouch tables.  I thrive off finding creative solutions to difficult problems.'
+contact:
+  email: contact@jonathanreyes.com
+  phone: '+962 7 9870 9236'
+  website: 'https://jonathanreyes.com'
+meta:
+  format: FRESH@^1.0.0-beta
+  modified: '2018-04-29T17:15:25.969Z'
+location:
+  city: Amman
+  region: 'Middle East'
+employment:
+  history:
+    -
+      position: 'CoFounder / CTO'
+      employer: StepGroup
+      summary: 'Responsible for design and implementation of artificial intelligence, machine learning, big data processing, scalability, frontend development, and backend API using NodeJS, Rails, PHP, MySQL, Cassandra, Spark, and Amazon AWS.'
+      start: '2015-06-01'
+      end: '2017-05-01'
+      url: 'https://stepfeed.com'
+      keywords: []
+      highlights: []
+    -
+      position: Independent
+      employer: Freelancer
+      summary: 'Responsible for the design and implementation of scalable infrastructures including both backend and frontend development for companies including: Capital Bank, Carnegie Mellon Qatar, Hashdoc, and Spiderfrogs. These systems were built to support large amounts of concurrent users while still providing instant statistics to the client and end-user.'
+      current: true
+      start: '2003-07-01'
+      url: 'https://jonathanreyes.com'
+      keywords: []
+      highlights:
+        - 'Worked with a variety of clients ranging from Boeing to Banks to International Universities'
+        - 'Experienced many different aspects of technology fields'
+        - 'Contributed to many open source projects'
+    -
+      position: 'Senior Developer'
+      employer: '2Advanced Studios'
+      summary: 'Responsible for the development of backend object-oriented, high-volume, database-driven applications, front-end flash development, and various other applications for the iPhone and desktop.  Clients: Activision, NAMCO Bandai Games, and Adobe.'
+      start: '2008-05-01'
+      end: '2012-05-01'
+      url: 'https://jonathanreyes.com'
+      keywords: []
+      highlights:
+        - 'Created and managed high-volume web applications for Call of Duty, Treyarch, DJ Hero, and Transformers'
+        - 'Created and managed the Namco Bandai Games application website and sub-sites'
+        - 'Explored and contributed to many bleeding-edge technologies'
+    -
+      position: '3D Programmer / Designer'
+      employer: 'EON Reality'
+      summary: 'Primary responsibilities include the creation of real-time 3D simulations and Vray renderings of walk-throughs and interactive applications. Clients: Boeing, Raytheon.'
+      start: '2007-05-01'
+      end: '2008-01-01'
+      url: 'https://eonreality.com'
+      keywords: []
+      highlights:
+        - 'Created and managed interactive 3D immersive environments for Boeing and Raytheon'
+    -
+      position: 'Videographer / Motion Graphics Artist'
+      employer: 'Sierra Nevada TV'
+      summary: 'Responsibilites include filming and creating TV spot commercials, show introductions, and live broadcast directing.'
+      start: '2003-05-01'
+      end: '2007-06-01'
+      keywords: []
+      highlights:
+        - 'Broad range of projects ranging from regional companies to government clients.'
+education:
+  level: ""
+  history:
+    -
+      institution: 'Bellevue University'
+      start: '2014-08-01'
+      summary: ""
+      area: Business
+      studyType: Bachelor
+    -
+      institution: 'University of Phoenix'
+      start: '2008-01-01'
+      end: '2009-01-01'
+      summary: ""
+      area: Business
+      studyType: Bachelor
+    -
+      institution: 'The Art Institute of Orange County'
+      start: '2007-06-01'
+      end: '2008-09-01'
+      summary: ""
+      area: 'Media Arts & Animation'
+      studyType: Bachelor
+service:
+  history:
+    -
+      type: volunteer
+      position: Advisor
+      organization: 'Founder Institute'
+      start: '2015-11-01'
+      url: 'https://fi.co/'
+      summary: 'Helping with the ideation and creation of businesses'
+      highlights: []
+skills:
+  sets:
+    -
+      name: 'Web Development: Frontend'
+      level: Master
+      skills:
+        - HTML5
+        - CSS3
+        - Javascript
+        - ES6
+        - CoffeeScript
+        - Angular
+        - jQuery
+        - Sass
+        - Less
+        - Bootstrap
+        - D3
+    -
+      name: 'Web Development: Backend'
+      level: Master
+      skills:
+        - Node
+        - Express
+        - Restify
+        - Ruby
+        - Firebase
+        - PHP
+        - Kohana
+        - 'Ruby on Rails'
+        - 'Amazon AWS'
+        - Docker
+        - Ubuntu
+        - Linux
+    -
+      name: 'Web Development: Architecture'
+      level: Master
+      skills:
+        - MVC
+        - Rest
+        - CRUD
+        - SPA
+        - Ajax
+        - WebSockets
+    -
+      name: 'Graphic / Motion Design'
+      level: Ninja
+      skills:
+        - Photoshop
+        - Premeire
+        - Combusion
+        - Sketch
+        - Illustrator
+        - Photography
+        - UI
+        - UX
+social:
+  -
+    label: Twitter
+    network: Twitter
+    url: 'https://twitter.com/jylinman'
+    user: jylinman
+  -
+    label: Facebook
+    network: Facebook
+    url: 'https://www.facebook.com/got.nomad'
+    user: got.nomad
+  -
+    label: Github
+    network: Github
+    url: 'https://github.com/jylinman'
+    user: jylinman
+  -
+    label: Keybase
+    network: Keybase
+    url: 'https://keybase.io/albanda'
+    user: albanda
+  -
+    label: Medium
+    network: Medium
+    url: 'https://medium.com/@albanda'
+    user: albanda
+interests:
+  -
+    name: Nature
+    keywords:
+      - Hiking
+      - BBQ
+  -
+    name: 'Intercultural Studies'
+    keywords:
+      - 'Intercultural Development Inventory'
+      - Enneagram
+      - 'Myers Briggs'
+  -
+    name: Art
+    keywords:
+      - Poetry
+      - Painting
+      - Calligraphy
+  -
+    name: Chess
+    keywords: []
+  -
+    name: 'World History'
+    keywords: []
+  -
+    name: 'Home Automation'
+    keywords: []
+languages:
+  -
+    language: English
+    fluency: 'Native speaker'
+  -
+    language: Arabic
+    fluency: 'Understands plenty, speaks less'
